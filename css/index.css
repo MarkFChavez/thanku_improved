@@ -13,3 +13,7 @@
 .italic {
   font-style: italic;
 }
+
+.letter {
+  letter-spacing: 1px;
+}
