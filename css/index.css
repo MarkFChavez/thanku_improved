@@ -5,3 +5,7 @@
 .padding20 {
   padding: 20px;
 }
+
+.card {
+  width: 250px !important;
+}
