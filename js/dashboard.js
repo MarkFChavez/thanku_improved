@@ -8,4 +8,13 @@ $(document).ready(function() {
       });
     });
   });
+
+  $(".dropdown-button").dropdown({
+    inDuration: 300,
+    outDuration: 225,
+    constrain_width: true,
+    hover: false,
+    alignment: "left",
+    gutter: 0
+  });
 });

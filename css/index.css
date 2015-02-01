@@ -9,3 +9,7 @@
 .card {
   width: 270px !important;
 }
+
+.italic {
+  font-style: italic;
+}
